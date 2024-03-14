@@ -24,3 +24,13 @@
 
 Upon deployment, the integrated KYC platform with anomaly detection is anticipated to revolutionize banking operations, yielding significant business impact. Over the next two years, it is projected to generate $200 million in revenue through heightened accuracy in customer verification, substantial reductions in manual effort, and bolstered trust among stakeholders. This transformative solution promises streamlined processes, improved efficiency, and enhanced compliance, positioning the institution as a leader in customer onboarding while unlocking substantial revenue potential.
 
+**Team Name: FINTECH FINCHERS**
+
+**Members:**
+1. ANKIT SINGH
+2. ANURADHA KRISHNAN
+3. ARNAV SHARMA
+4. CH MALVIKA REDDY
+5. LAIKHURAM KOROUHANBA KHUMAN
+6. PRATHAM AGARWALLA
+
